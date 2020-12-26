@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Options>
+	<PathsOptions>
+		<SourceDirectory>D:\\Projects\\SourceDirectory</SourceDirectory>
+		<TargetDirectory>D:\\Projects\\TargetDirectory</TargetDirectory>
+	</PathsOptions>
+	<EncryptingOptions>
+		<Key>57482</Key>
+	</EncryptingOptions>
+	<CompressOptions>
+		<CompressFormat>.gz</CompressFormat>
+	</CompressOptions>
+</Options>
